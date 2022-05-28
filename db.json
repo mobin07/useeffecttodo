@@ -1,0 +1,12 @@
+{
+  "todos":[
+      {"id":1, "value":"A", "isCompleted":true},
+      {"id":2, "value":"B", "isCompleted":true},
+      {"id":3, "value":"C", "isCompleted":false},
+      {"id":4, "value":"D", "isCompleted":false},
+      {"id":5, "value":"E", "isCompleted":false},
+      {"id":6, "value":"F", "isCompleted":false},
+      {"id":7, "value":"G", "isCompleted":false}
+
+  ]
+}
